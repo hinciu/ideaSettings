@@ -1,0 +1,16 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="id" value="1493893469311" />
+          <option name="importOrderConfigFilePath" value="$USER_HOME$/Downloads/organizeImportsEclipse.importorder" />
+          <option name="importOrdering" value="ECLIPSE_44" />
+          <option name="name" value="default" />
+          <option name="optimizeImports" value="false" />
+          <option name="pathToConfigFileJava" value="D:/Proyectos/Java_code_format/HotelbedsStyleEclipseFormatter.xml" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

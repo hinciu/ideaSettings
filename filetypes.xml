@@ -1,0 +1,36 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="1" />
+  </component>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="vault-request-hyperlink-not-exist" type="AUTO_DETECTED" />
+      <mapping ext="tpl" type="FTL" />
+      <mapping pattern="xml" type="Flow" />
+      <mapping pattern="suggestResults" type="Handlebars/Mustache" />
+      <mapping pattern="suggestNotFound" type="Handlebars/Mustache" />
+      <mapping pattern="CreateConfigurationPositive" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="secondfile" type="PLAIN_TEXT" />
+      <mapping pattern=".swagger-codegen-ignore" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="sdfsf" type="PLAIN_TEXT" />
+      <mapping pattern="link" type="PLAIN_TEXT" />
+      <mapping pattern="childone.py" type="PLAIN_TEXT" />
+      <mapping pattern="getConfiguration" type="SQL" />
+      <mapping pattern="CreateConfiguration" type="SourceMap" />
+      <mapping pattern="parent" type="XML" />
+      <mapping pattern="ReTVSapProveedorEmpresaMapper" type="XML" />
+      <mapping pattern="insertConfiguration" type="Spring Data QL" />
+    </extensionMap>
+  </component>
+</application>

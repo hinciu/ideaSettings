@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Clean Logs" description="Clean all logs in aplication." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Utilidades\Perls\Clean.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/Utilidades/Perls" />
+    </exec>
+  </tool>
+</toolSet>
